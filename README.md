@@ -301,12 +301,3 @@ http://localhost:3000
 
 ---
 
-# License
-
-This project is licensed under the MIT License.
-
----
-
-# Developer
-
-Developed as an enterprise AI demand forecasting platform focused on predictive analytics, intelligent automation, and scalable forecasting architecture.
